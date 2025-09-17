@@ -12,10 +12,11 @@
 - Hướng tới trở thành **Security Engineer**
 
 ## 🛠️ Kỹ năng đang học
-- Ngôn ngữ: `Java`, `C++`, `Bash`   
+- Ngôn ngữ: `Java`, `C++`  
 - Version control: `Git/GitHub`  
 
 ## 📫 Liên hệ
 - 📧 Email : *tungduong150906@gmail.com*
 ---
+
 
