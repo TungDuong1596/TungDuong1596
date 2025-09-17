@@ -1,10 +1,21 @@
-- 👋 Hi, I’m @TungDuong1596
-- 👀 I’m interested in Football, Game, ...
-- 🌱 I’m currently learning Computer Networking
-- 😄 Pronouns: he/him
+# 👋 Xin chào, mình là Hòa Tùng Dương  
 
+## 🧑‍💻 Giới thiệu
+- 📚 Sinh viên trường **Trường Đại học Công nghệ – ĐHQGHN** hay **UET-VNU**
+- 🔌 Đang theo học ngành **Mạng máy tính và Truyền thông dữ liệu**  
+- 🔒 Hướng đi mong muốn: **An ninh mạng & Bảo mật thông tin**  
 
-<!---
-TungDuong1596/TungDuong1596 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🚀 Mục tiêu
+- Nắm vững kiến thức về lập trình, các thuật toán
+- Phát triển kỹ năng đặc thù và kỹ năng mềm
+- Tham gia lab thực hành an ninh mạng  
+- Hướng tới trở thành **Security Engineer**
+
+## 🛠️ Kỹ năng đang học
+- Ngôn ngữ: `Java`, `C++`, `Bash`   
+- Version control: `Git/GitHub`  
+
+## 📫 Liên hệ
+- 📧 Email: *tungduong150906@gmail.com*  
+---
+
