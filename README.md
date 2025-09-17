@@ -16,6 +16,7 @@
 - Version control: `Git/GitHub`  
 
 ## 📫 Liên hệ
-- 📧 Email: *tungduong150906@gmail.com*  
+- 📧 Email (Personal): *tungduong150906@gmail.com*
+- 📧 Email (School): *24022780@vnu.edu.vn*  
 ---
 
