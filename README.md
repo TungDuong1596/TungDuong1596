@@ -8,7 +8,7 @@
 ## 🚀 Mục tiêu
 - Nắm vững kiến thức về lập trình, các thuật toán
 - Phát triển kỹ năng đặc thù và kỹ năng mềm
-- Tham gia lab thực hành an ninh mạng  
+- Tham gia lab thực hành an ninh mạng và các dự án về CNTT
 - Hướng tới trở thành **Security Engineer**
 
 ## 🛠️ Kỹ năng đang học
